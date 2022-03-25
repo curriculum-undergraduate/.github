@@ -1,2 +1,2 @@
-# .github
-Curriculum Graduate
+# Curriculum Undergraduate
+
